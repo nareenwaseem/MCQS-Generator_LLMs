@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Who coined the term 'machine learning'?,a: Donald Hebb | b: Tom M. Mitchell | c: Arthur Samuel | d: Walter Pitts,c
+What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a: Cybertron | b: HAL 9000 | c: Skynet | d: R2-D2,a
+Who proposed the early mathematical models of neural networks to come up with algorithms that mirror human thought processes?,a: Warren McCulloch | b: Tom M. Mitchell | c: Donald Hebb | d: Arthur Samuel,a
+"According to Tom M. Mitchell, what is the definition of a computer program learning from experience?","a: Improving performance at tasks in T with respect to some class of tasks T and performance measure P | b: Recognizing patterns and equipped with a 'goof' button | c: Classifying data based on models which have been developed | d: Analyzing sonar signals, electrocardiograms, and speech patterns",a
+What are the two objectives of modern-day machine learning?,a: To develop computer vision algorithms | b: To make predictions for future outcomes and classify data based on models | c: To analyze historical data only | d: To improve human cognitive processes,b
